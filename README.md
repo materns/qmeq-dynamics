@@ -1,2 +1,3 @@
-# qmeq-dynamics
-Calculating the full time evolution using qmeq
+## Dynamics with qmeq
+
+Calculating the full time evolution using the kernel/Liouvillian from qmeq 
